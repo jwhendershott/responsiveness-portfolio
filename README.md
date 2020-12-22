@@ -1,4 +1,5 @@
 # Assignment 2 - Responsiveness Portfolio
+
 https://jwhendershott.github.io/responsiveness-portfolio/
 
 <img src="assets/images/screenshot.jpg">
