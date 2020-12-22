@@ -1,8 +1,9 @@
 # Assignment 2 - Responsiveness Portfolio
-<!-- insert link here -->
+https://jwhendershott.github.io/responsiveness-portfolio/
 
 ## Description
 <!-- insert image here -->
+![Screenshot of index.html](assets/images/screenshott.JPG?raw=true)
 
 ## Credits
 
